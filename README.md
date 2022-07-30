@@ -2,7 +2,7 @@
 
 Sou estudante de programação e estou completamente apaixonado pelo mundo do front-end!
 
-<div>
+<div align="center">
   <a href="https://github.com/italo-serpa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italo-serpa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-serpa&layout=compact&langs_count=7&theme=gruvbox"/>
